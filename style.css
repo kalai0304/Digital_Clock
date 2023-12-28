@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+.heading{
+    line-height: 50px;
+}
+.hour{
+    border: 1px solid black;
+    letter-spacing: 4px;
+    color: lime;
+}
+.min{
+    border: 1px solid black;
+    letter-spacing: 4px;
+    color: lime;
+}
+.sec{
+    border: 1px solid rgb(10, 1, 1);
+    letter-spacing: 4px;
+    color: lime;
+}
+.session{
+    border: 1px solid black;
+    letter-spacing: 2px;
+    color: lime;
+}
+.table{
+   text-align: center;
+   border: 1px solid black;
+   font-size: 2em;
+   margin-top:9.5em;
+   margin-left: auto;
+   margin-right: auto ;
+   color: rgb(108, 205, 222);
+}
+.colon{
+    color: rgb(108, 30, 217);
+}
